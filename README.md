@@ -6,3 +6,5 @@ I did this project as my Major Project. You can find the documentation too in th
 
 This project is also published in Kaggle with additional step by step information and comments.
 https://www.kaggle.com/vamshikreddy/predictive-maintenance-using-lstm
+
+Thanks to https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM for the code.
